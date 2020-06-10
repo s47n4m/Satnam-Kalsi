@@ -1,20 +1,16 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-background-image: URL(https://github.com/s47n4m/digital-namecard/blob/master/satnam.JPG);
-background-repeat: no-repeat;
-width: 10px;
-height: 20px;
 N:Kalsi; Satnam; S;;;
 FN: Satnam S Kalsi
 ORG:Johnson Controls;
 TITLE:Project Engineer
+PHOTO;VALUE=URI;TYPE=JPG:https://github.com/s47n4m/digital-namecard/blob/master/satnam.JPG
 EMAIL;type=INTERNET;type=WORK;type=pref:satnam.kalsi@barclays.com
 EMAIL;type=INTERNET;type=WORK;type=pref:satnam.kalsi@jci.com
 TEL;type=WORK;type=VOICE:07730052476
 TEL;type=WORK;type=VOICE:02077730311
-item1.ADR;type=WORK;type=pref:;;5 North Colonnade\nCanary Wharf\nLondon\, E14 4BB;;; ;United Kingdom
-item1.X-ABADR:sg
+item1.ADR;TYPE=WORK,PREF:;;5 North Colonnade;Canary Wharf;London;4BB;United Kingdom
 item2.URL;type=pref:linkedin.com/in//satnamskalsi
 item2.URL;type=pref:johnsoncontrols.co.uk
 item2.X-ABLabel:_$!<HomePage>!$_
