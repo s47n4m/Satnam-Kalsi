@@ -8,7 +8,7 @@ TITLE:Project Engineer
 EMAIL;type=INTERNET;type=WORK;type=pref:satnam.kalsi@barclays.com
 TEL;type=WORK;type=VOICE:07730052476
 TEL;type=WORK;type=VOICE:02077730311
-item1.ADR;type=WORK;type=pref:;;5 N Colonnade, Canary Wharf, London\, E14 4BB;United Kingdom
+item1.ADR;type=WORK;type=pref:;;5 North Colonnade, Canary Wharf, London\, E14 4BB;;;United Kingdom
 item1.X-ABADR:sg
 item2.URL;type=pref:johnsoncontrols.co.uk
 item2.X-ABLabel:_$!<HomePage>!$_
