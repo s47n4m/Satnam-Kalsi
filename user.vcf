@@ -1,7 +1,7 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-background-image: url(/images/satnam.JPG);
+background-image: https://s47n4m.github.io/digital-namecard/images/satnam.JPG;
 background-repeat: no-repeat;
 width: 10px;
 height: 20px;
