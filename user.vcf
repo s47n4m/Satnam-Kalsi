@@ -1,6 +1,10 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+background-image: url(satnam.JPG);
+background-repeat: no-repeat;
+width: 10px;
+height: 20px;
 N:Kalsi; Satnam; S;;;
 FN: Satnam S Kalsi
 ORG:Johnson Controls;
