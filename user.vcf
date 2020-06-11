@@ -13,5 +13,5 @@ ADR;TYPE=WORK,type=PREF:;;5 North Colonnade\nCanary Wharf;London;;E14 4BB;United
 item1.URL;type=pref:linkedin.com/in//satnamskalsi
 item1.X-ABLabel:linkedin
 item2.URL;type=pref:johnsoncontrols.co.uk
-item2.X-ABLabel:_$!<homepage>1$_
+item2.X-ABLabel:homepage
 END:VCARD
