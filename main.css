@@ -170,6 +170,7 @@ img.profile-pic {
 .button {
 	width: 100%;
 	display:block;
+	background-color: #00FF7F;
 }
 
 @media screen and (max-width: 600px) {
