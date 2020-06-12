@@ -169,12 +169,10 @@ img.profile-pic {
 
 .button {
 	background-color: #E5E4E2;
-	height: 48px;
+	height: 60px;
 	text-align: center;
 	vertical-align: middle;
-	padding-left: 24px
-	padding-right: 24px;
-	line-height: 48px;
+	line-height: 60px;
 	font-family: 'Muli', sans-serif;
 	color: White;
 	font-weight: 300;
