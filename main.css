@@ -170,14 +170,14 @@ img.profile-pic {
 .button {
 	background-color: #00FF7F;
 	height: 48px;
-	padding-left: 100px
-	padding-right: 100px;
+	padding-left: 24px
+	padding-right: 24px;
 	text-align: center;
 	vertical-align: middle;
 	line-height: 48px;
 	font-family: 'Muli', sans-serif;
-	color: black;
-	font-weight: 300;
+	color: blue;
+	font-weight: 600;
 }
 
 @media screen and (max-width: 600px) {
