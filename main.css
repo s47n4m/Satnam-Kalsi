@@ -168,13 +168,13 @@ img.profile-pic {
 }
 
 .button {
-  	background-color: pink;
+  	background-color: #A3E4D7;
 	width: 100%;
 	border-radius: 12px;
 	padding: 14px 28px;
 	font-family: 'Muli', sans-serif;
 	font-size: 16px;
-	color: White;
+	color: #FFFFFF;
 	font-weight: 300;
 	text-align: center;
 }
