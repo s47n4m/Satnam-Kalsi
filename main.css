@@ -134,12 +134,12 @@ img.profile-pic {
 	height: 8%;
 }
 
-.bg-color-grey {
-	background-color: #5DADE2;
-}
-
 .bg-color-Light grayish blue {
 	background-color: #EBF5FB;
+}
+
+.bg-color-Light grayish cyan {
+	background-color: #F8F9F9;
 }
 
 .text-name {
@@ -168,13 +168,13 @@ img.profile-pic {
 }
 
 .button {
-  	background-color: #A3E4D7;
+  	background-color: #F9E79F;
 	width: 100%;
 	border-radius: 12px;
 	padding: 14px 28px;
 	font-family: 'Muli', sans-serif;
 	font-size: 16px;
-	color: #FFFFFF;
+	color: black;
 	font-weight: 300;
 	text-align: center;
 }
