@@ -170,7 +170,7 @@ img.profile-pic {
 .button {
  	display: block;
   	width: 100%;
-  	border: none;
+  	border: 12px;
   	background-color: #4CAF50;
   	color: white;
   	padding: 14px 28px;
