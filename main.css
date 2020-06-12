@@ -176,10 +176,9 @@ img.profile-pic {
   	text-align: center;
 	vertical-align: middle;
 	color: blue;
-  	font-size: 60px;
+  	font-size: 50px;
 	font-family: 'Muli', Bodoni MT Black;
 	border-radius: 12px;
-	width: 100%
 }
 
 @media screen and (max-width: 600px) {
