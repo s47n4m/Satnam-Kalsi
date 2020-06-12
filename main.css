@@ -179,7 +179,7 @@ img.profile-pic {
   	font-size: 30px;
 	font-family: 'Muli', Bodoni MT Black;
 	border-radius: 12px;
-	Width 300
+	Width: 100%
 }
 
 @media screen and (max-width: 600px) {
