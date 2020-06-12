@@ -169,7 +169,7 @@ img.profile-pic {
 
 .button {
   	background-color: #F9E79F !important;
-	height: 48px;
+	height: 60px;
 	width: 100%;
 	border-radius: 12px;
 	padding: 14px 28px;
@@ -178,7 +178,6 @@ img.profile-pic {
 	color: #FDFEFE !important;
 	font-weight: 300;
 	text-align: center;
-	line-height: 48px;
 }
 
 @media screen and (max-width: 600px) {
