@@ -168,16 +168,13 @@ img.profile-pic {
 }
 
 .button {
+  	background-color: lightgrey;
+  	color: red;
+	width: 100%;
 	border-radius: 12px;
-	display: block;
-	width: 100%
-	background-color: #E5E4E2;
-	height: 60px;
+	padding: 14px 28px;
+	font-size: 16px;
 	text-align: center;
-	line-height: 60px;
-	font-family: 'Muli', sans-serif;
-	color: White;
-	font-weight: 300;
 }
 
 @media screen and (max-width: 600px) {
