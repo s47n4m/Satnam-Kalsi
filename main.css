@@ -170,9 +170,7 @@ img.profile-pic {
 .button {
   	background-color: #00FF7F;
   	border: none;
-  	padding: 24px 28px;
-	padding-left: 100%
-	padding-right: 100%
+  	padding: 24px 24px;
   	text-align: center;
   	display: inline-block;
 	color: blue;
