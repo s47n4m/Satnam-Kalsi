@@ -176,8 +176,6 @@ img.profile-pic {
   	padding: 14px 28px;
   	font-size: 16px;
   	text-align: center;
-	<h2>Full Width Buttons</h2>
-	<button class="block">Block Button</button>
 }
 
 @media screen and (max-width: 600px) {
