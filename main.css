@@ -7,10 +7,13 @@ body {
 }
 
 section {
-	display: block;
-	padding-left: 0.5rem;
-	padding-right: 0.5rem;
-	height: auto;
+	 display: block;
+  	width: 100%;
+  	border: none;
+  	background-color: #4CAF50;
+  	padding: 14px 28px;
+  	font-size: 16px;
+  	text-align: center;
 }
 
 p {
