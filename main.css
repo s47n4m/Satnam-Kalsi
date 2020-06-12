@@ -169,12 +169,12 @@ img.profile-pic {
 
 .button {
   	background-color: #00FF7F;
-	height: 80px;
+	height: 48px;
   	padding-left: 24px
 	padding-right: 24px;
-	line-height: 80px;
+	line-height: 48px;
   	text-align: center;
-	color: Black;
+	color: red;
   	font-size: 30px;
 	font-family: 'Muli', Bodoni MT Black;
 	border-radius: 12px;
