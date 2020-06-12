@@ -169,7 +169,8 @@ img.profile-pic {
 
 .button {
   	background-color: #00FF7F;
-  	padding: 14px 40px;
+  	padding-left: 100px
+	padding-right: 100px;
   	text-align: center;
 	color: pink;
   	font-size: 20px;
