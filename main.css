@@ -135,11 +135,11 @@ img.profile-pic {
 }
 
 .bg-color-Light grayish blue {
-	background-color: #EBF5FB;
+	background-color: #EBF5FB !important;
 }
 
 .bg-color-Light grayish cyan {
-	background-color: #F8F9F9;
+	background-color: #F8F9F9 !important;
 }
 
 .text-name {
@@ -168,13 +168,13 @@ img.profile-pic {
 }
 
 .button {
-  	background-color: #F9E79F;
+  	background-color: #F9E79F !important;
 	width: 100%;
 	border-radius: 12px;
 	padding: 14px 28px;
 	font-family: 'Muli', sans-serif;
 	font-size: 16px;
-	color: white !important;
+	color: #FDFEFE !important;
 	font-weight: 300;
 	text-align: center;
 }
