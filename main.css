@@ -135,7 +135,7 @@ img.profile-pic {
 }
 
 .bg-image {
-	img.profile-pic;
+	background-image: img.profile-pic;
 }
 
 .bg-color-white {
