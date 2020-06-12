@@ -134,7 +134,7 @@ img.profile-pic {
 	height: 8%;
 }
 
-.bg-image {
+.background-image {
 	background-image: img.profile-pic;
 }
 
@@ -170,8 +170,8 @@ img.profile-pic {
 .button {
 	background-color: #00FF7F;
 	height: 48px;
-	padding-left: 24px
-	padding-right: 24px;
+	padding-left: 30px
+	padding-right: 30px;
 	text-align: center;
 	vertical-align: middle;
 	line-height: 48px;
