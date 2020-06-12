@@ -170,12 +170,14 @@ img.profile-pic {
 .button {
   	background-color: #00FF7F;
   	border: none;
-  	color: white;
   	padding: 24px 28px;
+	padding-left: 100%
+	padding-right: 100%
   	text-align: center;
-  	text-decoration: none;
   	display: inline-block;
+	color: blue;
   	font-size: 20px;
+	font-family: 'Muli', sans-serif;
 	border-radius: 12px;
 	width: 100%
 }
