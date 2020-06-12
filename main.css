@@ -176,7 +176,8 @@ img.profile-pic {
 	vertical-align: middle;
 	line-height: 60px;
 	font-size: 22px;
-	font-family: Arial;
+	font-family: 'Muli', sans-serif;
+	font-weight: bold;
 	color: white;
 }
 
