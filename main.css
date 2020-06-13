@@ -182,6 +182,12 @@ img.profile-pic {
 	color: white;
 }
 
+.flex-center-vertically {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
 @media screen and (max-width: 600px) {
   img.profile-pic {
     height: 60%;
