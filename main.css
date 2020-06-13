@@ -171,7 +171,7 @@ img.profile-pic {
   	background-color: #F9E79F;
 	height: 48px;
 	width: 100%;
-	vertical-align: middle;
+	text-align: center;
 	line-height: 48px;
 	font-size: 22px;
 	font-family: 'Muli', sans-serif;
