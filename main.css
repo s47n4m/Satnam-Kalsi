@@ -171,7 +171,11 @@ img.profile-pic {
   	background-color: #F9E79F;
 	height: 48px;
 	width: 100%;
+	margin: 0 auto;
+    	padding: 0;
+    	display: inline-block;
 	text-align: center;
+	vertical-align: middle;
 	line-height: 48px;
 	font-size: 22px;
 	font-family: 'Muli', sans-serif;
