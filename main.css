@@ -168,7 +168,7 @@ img.profile-pic {
 }
 
 .button {
-  	background-color: #F9E79F;
+  	background-color: #FFFF00;
 	height: 48px;
 	width: 100%;
 	margin: 0 auto;
@@ -181,7 +181,7 @@ img.profile-pic {
 	font-size: 22px;
 	font-family: 'Muli', sans-serif;
 	font-weight: bold;
-	color: white;
+	color: #F5F5F5;
 }
 
 @media screen and (max-width: 600px) {
