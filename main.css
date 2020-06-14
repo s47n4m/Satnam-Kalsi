@@ -117,6 +117,8 @@ img.profile-pic {
 .col.is-10 {
 	flex: none;
 	width: 100%;
+}
+
 .name-title-company {
 	height: 100%;
 }
