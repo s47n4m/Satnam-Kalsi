@@ -49,7 +49,7 @@ img.profile-pic {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	flex-wrap: nowrap;
+	flex-wrap: wrap;
 	flex-direction: row;
 	position: relative;
 	height: 100%;
