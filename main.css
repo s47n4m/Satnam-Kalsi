@@ -47,8 +47,8 @@ img.profile-pic {
 
 .row {
 	display: flex;
-	justify-content: center;
-	align-items: center;
+	justify-content: left;
+	align-items: left;
 	flex-wrap: wrap;
 	flex-direction: row;
 	position: relative;
