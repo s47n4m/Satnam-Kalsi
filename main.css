@@ -47,8 +47,8 @@ img.profile-pic {
 
 .row {
 	display: flex;
-	justify-content: center;
-	align-items: center;
+	justify-content: left;
+	align-items: left;
 	flex-direction: row;
 	position: relative;
 	height: 100%;
@@ -131,7 +131,7 @@ img.profile-pic {
 }
 
 .secondary-info {
-	height: 8%;
+	height: 5%;
 }
 
 .bg-color-grey {
